@@ -1,0 +1,115 @@
+[[PDFHighlights]]
+arch = "aarch64"
+git-tree-sha1 = "e45c97f801f2362bab374587036ba120b4ee50eb"
+libc = "glibc"
+os = "linux"
+
+    [[PDFHighlights.download]]
+    sha256 = "21245024f143e3d1e911ce98f92406e40d652c67a5595aa5e522bba7215413ea"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.aarch64-linux-gnu.tar.gz"
+[[PDFHighlights]]
+arch = "aarch64"
+git-tree-sha1 = "270464ffa35addd4e232a7259a88d0772860a211"
+libc = "musl"
+os = "linux"
+
+    [[PDFHighlights.download]]
+    sha256 = "be501a3fe008cbf8e88c2a1847f35e3b977edf70a84c9629aab0536e8229de61"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.aarch64-linux-musl.tar.gz"
+[[PDFHighlights]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "297c6033f45162b9209033bae754e69c032c9b73"
+libc = "glibc"
+os = "linux"
+
+    [[PDFHighlights.download]]
+    sha256 = "b75adf7b92c0468fb36244e72db7269a9b585d384e880c2b7fd3544ea3e03055"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.armv7l-linux-gnueabihf.tar.gz"
+[[PDFHighlights]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e5c5fd1f1cd30f78ea3df03579505a6a08507f17"
+libc = "musl"
+os = "linux"
+
+    [[PDFHighlights.download]]
+    sha256 = "5a6566202ca1b14b12a484d0ac2a03c9a35fa7c862e13f076cc3789b35b2435e"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.armv7l-linux-musleabihf.tar.gz"
+[[PDFHighlights]]
+arch = "i686"
+git-tree-sha1 = "859efbda4ef929f2407e8dc1e6c8564dc384d27d"
+libc = "glibc"
+os = "linux"
+
+    [[PDFHighlights.download]]
+    sha256 = "e52e6082af4e2f3f4cb8c4f218565e703b28b256909eac16ac3184993b9a71b0"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.i686-linux-gnu.tar.gz"
+[[PDFHighlights]]
+arch = "i686"
+git-tree-sha1 = "5645d6799e253e59b633b6a5ad2f60f23d360d3c"
+libc = "musl"
+os = "linux"
+
+    [[PDFHighlights.download]]
+    sha256 = "5438cc08c40ffe65723696f9da2540ede609a6426b35f2818157b68cde0a8825"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.i686-linux-musl.tar.gz"
+[[PDFHighlights]]
+arch = "i686"
+git-tree-sha1 = "9497cc2809dae1131d4a595d0b471936a6ca8a73"
+os = "windows"
+
+    [[PDFHighlights.download]]
+    sha256 = "df7deabf59c2845faae79c26d9f6620d1b2017c1e4278de99554da952db6efaf"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.i686-w64-mingw32.tar.gz"
+[[PDFHighlights]]
+arch = "powerpc64le"
+git-tree-sha1 = "d76fb5418115bbb2867884f770120c9338578611"
+libc = "glibc"
+os = "linux"
+
+    [[PDFHighlights.download]]
+    sha256 = "badb69c3c46421b28cdf02e336180f4d507774cdf9992ef194f89e0d277e2e83"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.powerpc64le-linux-gnu.tar.gz"
+[[PDFHighlights]]
+arch = "x86_64"
+git-tree-sha1 = "1cf7b5a51489e3b0a82e1c0b3bd83bd2b9c31e0a"
+os = "macos"
+
+    [[PDFHighlights.download]]
+    sha256 = "ff51eb7ce5930840f60aa9d1643049583d67e0e8ed43fd2c26cc4abe0f2770d3"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.x86_64-apple-darwin.tar.gz"
+[[PDFHighlights]]
+arch = "x86_64"
+git-tree-sha1 = "79675fb9846a8dbf140ce475577862a4030441c5"
+libc = "glibc"
+os = "linux"
+
+    [[PDFHighlights.download]]
+    sha256 = "58d77d9c29ff12de0271448b40c19ead4173d30a30321a18189d7411eba1ad01"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.x86_64-linux-gnu.tar.gz"
+[[PDFHighlights]]
+arch = "x86_64"
+git-tree-sha1 = "6c429bd6b15a11471d319b12fe5d2523fc741d80"
+libc = "musl"
+os = "linux"
+
+    [[PDFHighlights.download]]
+    sha256 = "2a9847b7334be4b84f7fa85157ff805991c359d1b434d5902cb9463001927fdc"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.x86_64-linux-musl.tar.gz"
+[[PDFHighlights]]
+arch = "x86_64"
+git-tree-sha1 = "cb67a3439e2d2abdfaa6bb815450eb1daf52e97d"
+os = "freebsd"
+
+    [[PDFHighlights.download]]
+    sha256 = "744c79e80234263b878ea65763fb599dc3358c88ee71248e4a88e0b953a335b1"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.x86_64-unknown-freebsd.tar.gz"
+[[PDFHighlights]]
+arch = "x86_64"
+git-tree-sha1 = "378f368968e93cf8342529712d440547819f6773"
+os = "windows"
+
+    [[PDFHighlights.download]]
+    sha256 = "28a75832b61b4d90d54c271f77d15ecfe9658b05f23eaa23e9e054f4f274f614"
+    url = "https://github.com/JuliaBinaryWrappers/PDFHighlights_jll.jl/releases/download/PDFHighlights-v0.1.1+0/PDFHighlights.v0.1.1.x86_64-w64-mingw32.tar.gz"
